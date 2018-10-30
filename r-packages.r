@@ -1,2 +1,2 @@
-install.packages('shiny', repos='https://cran.rstudio.com/')
-install.packages('rmarkdown')
+install.packages('shiny', repos='https://cloud.r-project.org/')
+install.packages('rmarkdown', repos='https://cloud.r-project.org/')
